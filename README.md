@@ -2,12 +2,6 @@
 
 Hello there! Welcome to my GitHub Repository. Here, you'll find a collection of projects, codes samples and experiments I performed along my journey to become a software developer.
 
-<div>
-<a href="https://github.com/victorhfsilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhfsilva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhfsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## 🧑‍💼 About Me:
 
 I'm Victor Hugo Ferreira Silva, a software developer enthusiast. My love for coding started during my exchange to Budapest where I studied Information Technology Engineering for one year. I'm currently studying Eletronics and Telecommunication Engineering at Universidade Federal de Uberlândia. But I'm already graduated in Physics Engineering by Universidade Estadual do Mato Grosso do Sul.
@@ -34,6 +28,13 @@ I'm currently working as an Undergraduate Researcher on a mobile development pro
 <img src="https://github.com/victorhfsilva/victorhfsilva/assets/22583145/530e92f8-9349-4db6-a39e-a82a9d51f820" width="64" height="64">
 <img src="https://github.com/victorhfsilva/victorhfsilva/assets/22583145/3ce09424-ae93-4cc2-8202-ac8266e30eff" width="64" height="64">
 
+## Most Used Languages
+
+<div>
+<a href="https://github.com/victorhfsilva">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhfsilva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 ## 📫 Contact Me:
 <a href="https://www.linkedin.com/in/victorhfsilva/?locale=en_US" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
