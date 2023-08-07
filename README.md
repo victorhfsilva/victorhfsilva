@@ -9,7 +9,7 @@ I'm Victor Hugo Ferreira Silva, a software developer enthusiast. My love for cod
 ## 🔭 Current Work
 I'm currently working as an Undergraduate Researcher on a mobile development project for agricultural applications. This project aims to develop an Android application to assist small-scale producers in autonomously classifying their batch of grains.
 
-## 🌱 I’m Currently Learning
+## 🌱 I’m Currently Learning...
 
 - Mobile Development with Kotlin;
 - Back End Development with Java and Kotlin;
