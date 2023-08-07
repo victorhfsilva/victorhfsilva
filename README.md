@@ -28,7 +28,7 @@ I'm currently working as an Undergraduate Researcher on a mobile development pro
 <img src="https://github.com/victorhfsilva/victorhfsilva/assets/22583145/530e92f8-9349-4db6-a39e-a82a9d51f820" width="64" height="64">
 <img src="https://github.com/victorhfsilva/victorhfsilva/assets/22583145/3ce09424-ae93-4cc2-8202-ac8266e30eff" width="64" height="64">
 
-## Most Used Languages
+## Analytics:
 
 <div>
 <a href="https://github.com/victorhfsilva">
