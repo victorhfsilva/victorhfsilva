@@ -32,7 +32,7 @@ I'm currently working as an Undergraduate Researcher on a mobile development pro
 
 <div>
 <a href="https://github.com/victorhfsilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhfsilva&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorhfsilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## 📫 Contact Me
