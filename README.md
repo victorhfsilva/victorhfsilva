@@ -8,7 +8,9 @@ I'm Victor Hugo Ferreira Silva, a Fullstack and Mobile software developer. My lo
 
 ## 🔭 Current Work
 
-I'm currently working as an Undergraduate Researcher on a mobile development project for agricultural applications. This project aims to develop an Android application to assist small-scale producers in autonomously classifying their batch of grains.
+I'm currently working as a Software Developer Intern at DB, our tech stack is basically composed of Java, Spring, Typescript and React.
+
+I'm also an Undergraduate Researcher on a mobile development project for agricultural applications. This project aims to develop an Android application to assist small-scale producers in autonomously classifying their batch of grains based on quality parameters.
 
 ## 🌱 I’m Currently Learning
 
