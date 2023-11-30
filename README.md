@@ -26,7 +26,7 @@ I'm also an Undergraduate Researcher on a mobile development project for agricul
 
 ## 📈 Analytics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorhfsilva&show_icons=true&locale=en&layout=compact&theme=dracula" alt="victorhfsilva" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorhfsilva&show_icons=true&locale=en&layout=compact&theme=dracula&cachebuster={{some_random_value}}" alt="victorhfsilva" /></p>
   
 ## 📫 Contact Me
 
