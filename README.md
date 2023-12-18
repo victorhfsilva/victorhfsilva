@@ -78,14 +78,14 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 </p>
 
-## 📈 Analytics
+## 📈 Estatísticas
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorhfsilva&show_icons=true&locale=en&theme=dracula&layout=compact" alt="victorhfsilva" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorhfsilva&show_icons=true&locale=en&theme=dracula" alt="victorhfsilva" /></p>
 
-## 📫 Contact Me
+## 📫 Contatos
 
 <p align="left">
 <a href="https://twitter.com/victor_hfsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victor_hfsilva" height="30" width="40" /></a>
