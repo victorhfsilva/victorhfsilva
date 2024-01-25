@@ -22,7 +22,7 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 - Desenvolvimento Back End com Java e Kotlin;
 - Desenvolvimento Front End com React.js;
 - Práticas DevOps;
-- Pentest;
+- Testes Automatizados;
 - Dentre outros assuntos.
   
 ## 🧰 Languages and Tools
