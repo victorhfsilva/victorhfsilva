@@ -21,22 +21,13 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 ## 🌱 Atualmente estou aprendendo...
 
 - Desenvolvimento Back End:
-  - Java;
-  - Kotlin;
-  - Spring;
   - REST;
   - Websocket; 
-- Desenvolvimento Front End:
-  - HTML/CSS;
-  - Javascript/Typescript;
-  - React.js;   
-- Desenvolvimento Mobile:
-  - Kotlin;
-  - Android Jetpack;
-  - Material Design;
+- Desenvolvimento Front End;
+- Desenvolvimento Mobile;
 - Práticas DevOps;
 - Testes Automatizados;
-- Dentre outros assuntos.
+- Dentre outros.
   
 ## 🧰 Languages and Tools
 
