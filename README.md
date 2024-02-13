@@ -4,7 +4,7 @@ Oi! Seja bem-vindo ao meu repositório do GitHub. Aqui você encontrará uma col
 
 ## 🔭 Trabalho Atual
 
-Atualmente estou trabalhando como desenvolvedor de software na DB Server.
+Atualmente estou trabalhando como estagiário desenvolvedor de software na DB Server.
 
 Também sou pesquisador em um projeto de inciação científica sobre desenvolvimento mobile para aplicações agrícolas. Este projeto tem como objetivo desenvolver um aplicativo Android para auxiliar pequenos produtores no cálculo da classificação de seus lotes de grãos com base em seus parâmetros de qualidade.
 
@@ -15,12 +15,25 @@ Meu método de estudo se baseia em dois pilares, a prática e a criação de mat
 A seguir estão meus repositórios com estes materiais. Quem sabe eles também podem ser úteis para outras pessoas iniciando nessa jornada.
 
 - [Guia do Front End](https://github.com/victorhfsilva/guia-do-frontend)
+- [Guia do Android](https://github.com/victorhfsilva/guia-do-android)
+- [Guia dos Testes Automatizados](https://github.com/victorhfsilva/guia-dos-testes-automatizados)
 
 ## 🌱 Atualmente estou aprendendo...
 
-- Desenvolvimento Mobile com Kotlin;
-- Desenvolvimento Back End com Java e Kotlin;
-- Desenvolvimento Front End com React.js;
+- Desenvolvimento Back End:
+  - Java;
+  - Kotlin;
+  - Spring;
+  - REST;
+  - Websocket; 
+- Desenvolvimento Front End:
+  - HTML/CSS;
+  - Javascript/Typescript;
+  - React.js;   
+- Desenvolvimento Mobile:
+  - Kotlin;
+  - Android Jetpack;
+  - Material Design;
 - Práticas DevOps;
 - Testes Automatizados;
 - Dentre outros assuntos.
@@ -55,6 +68,7 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 ### Qualidade
 <p align="left"> 
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 ### DevOps
@@ -69,13 +83,19 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
-### Outros
+### Dados
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+</p>
+
+### Outros
+<p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
 ## 📈 Estatísticas
