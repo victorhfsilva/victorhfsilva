@@ -14,6 +14,7 @@ Meu método de estudo se baseia em dois pilares, a prática e a criação de mat
 
 A seguir estão meus repositórios com estes materiais. Quem sabe eles também podem ser úteis para outras pessoas iniciando nessa jornada.
 
+- [Guia do Back End](https://github.com/victorhfsilva/guia-do-back-end-java)
 - [Guia do Front End](https://github.com/victorhfsilva/guia-do-frontend)
 - [Guia do Android](https://github.com/victorhfsilva/guia-do-android)
 - [Guia dos Testes Automatizados](https://github.com/victorhfsilva/guia-dos-testes-automatizados)
