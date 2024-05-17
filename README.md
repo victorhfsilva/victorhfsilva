@@ -19,6 +19,7 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 - [Guia do Android](https://github.com/victorhfsilva/guia-do-android)
 - [Guia dos Testes Automatizados](https://github.com/victorhfsilva/guia-dos-testes-automatizados)
 - [Guia do DevOps](https://github.com/victorhfsilva/guia-do-devops)
+- [Guia do Python](https://github.com/victorhfsilva/guia-do-python)
 
 ## 🌱 Atualmente estou aprendendo...
 
