@@ -14,18 +14,17 @@ Meu método de estudo se baseia em dois pilares, a prática e a criação de mat
 
 A seguir estão meus repositórios com estes materiais. Quem sabe eles também podem ser úteis para outras pessoas iniciando nessa jornada.
 
-- [Guia do Back End](https://github.com/victorhfsilva/guia-do-back-end-java)
+- [Guia do Back End Java](https://github.com/victorhfsilva/guia-do-back-end-java)
 - [Guia do Front End](https://github.com/victorhfsilva/guia-do-frontend)
-- [Guia do Android](https://github.com/victorhfsilva/guia-do-android)
 - [Guia dos Testes Automatizados](https://github.com/victorhfsilva/guia-dos-testes-automatizados)
-- [Guia do DevOps](https://github.com/victorhfsilva/guia-do-devops)
 - [Guia do Python](https://github.com/victorhfsilva/guia-do-python)
+- [Guia do Android](https://github.com/victorhfsilva/guia-do-android)
+- [Guia do DevOps](https://github.com/victorhfsilva/guia-do-devops)
+- [Guia dos Bancos de Dados](https://github.com/victorhfsilva/guia-dos-bancos-de-dados)
 
 ## 🌱 Atualmente estou aprendendo...
 
 - Desenvolvimento Back End:
-  - REST;
-  - Websocket; 
 - Desenvolvimento Front End;
 - Desenvolvimento Mobile;
 - Práticas DevOps;
@@ -40,13 +39,6 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  
 </p> 
-
-### Android
-<p align="left"> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-</p>
-
 
 ### Front End
 <p align="left"> 
@@ -84,6 +76,12 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+</p>
+
+### Android
+<p align="left"> 
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 </p>
 
 ### Outros
