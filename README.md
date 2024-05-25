@@ -18,7 +18,6 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 - [Guia do Front End](https://github.com/victorhfsilva/guia-do-frontend)
 - [Guia dos Testes Automatizados](https://github.com/victorhfsilva/guia-dos-testes-automatizados)
 - [Guia do Python](https://github.com/victorhfsilva/guia-do-python)
-- [Guia do Android](https://github.com/victorhfsilva/guia-do-android)
 - [Guia do DevOps](https://github.com/victorhfsilva/guia-do-devops)
 - [Guia dos Bancos de Dados](https://github.com/victorhfsilva/guia-dos-bancos-de-dados)
 
@@ -26,7 +25,6 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 
 - Desenvolvimento Back End:
 - Desenvolvimento Front End;
-- Desenvolvimento Mobile;
 - Práticas DevOps;
 - Testes Automatizados;
 - Dentre outros.
@@ -74,12 +72,6 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-</p>
-
-### Android
-<p align="left"> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 </p>
 
 ### Outros
