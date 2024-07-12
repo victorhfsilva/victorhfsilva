@@ -4,9 +4,7 @@ Oi! Seja bem-vindo ao meu repositório do GitHub. Aqui você encontrará uma col
 
 ## 🔭 Trabalho Atual
 
-Atualmente estou trabalhando como estagiário desenvolvedor de software na DB Server.
-
-Também sou pesquisador em um projeto de inciação científica sobre desenvolvimento mobile para aplicações agrícolas. Este projeto tem como objetivo desenvolver um aplicativo Android para auxiliar pequenos produtores no cálculo da classificação de seus lotes de grãos com base em seus parâmetros de qualidade.
+Atualmente estou trabalhando como Desenvolvedor Júnior Full Stack na DB Server.
 
 ## 📝 Guias de Estudo
 
