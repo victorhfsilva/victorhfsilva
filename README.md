@@ -24,9 +24,7 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 
 - Desenvolvimento Back End:
 - Desenvolvimento Front End;
-- Práticas DevOps;
-- Testes Automatizados;
-- Dentre outros.
+- Testes de Penetração;
   
 ## 🧰 Languages and Tools
 
