@@ -16,6 +16,7 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 - [Guia do Front End](https://github.com/victorhfsilva/guia-do-frontend)
 - [Guia dos Testes Automatizados](https://github.com/victorhfsilva/guia-dos-testes-automatizados)
 - [Guia do Python](https://github.com/victorhfsilva/guia-do-python)
+- [Guia do Golang](https://github.com/victorhfsilva/guia-do-golang)
 - [Guia do DevOps](https://github.com/victorhfsilva/guia-do-devops)
 - [Guia dos Bancos de Dados](https://github.com/victorhfsilva/guia-dos-bancos-de-dados)
 - [Guia do Pentesting](https://github.com/victorhfsilva/guia-do-pentesting)
