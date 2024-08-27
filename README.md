@@ -26,7 +26,7 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 
 - Desenvolvimento Back End:
 - Desenvolvimento Front End;
-- Testes de Penetração;
+- Penetration Testing;
   
 ## 🧰 Languages and Tools
 
