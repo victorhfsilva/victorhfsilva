@@ -20,7 +20,6 @@ A seguir estão meus repositórios com estes materiais. Quem sabe eles também p
 - [Guia do PHP](https://github.com/victorhfsilva/guia-do-php)
 - [Guia do DevOps](https://github.com/victorhfsilva/guia-do-devops)
 - [Guia dos Bancos de Dados](https://github.com/victorhfsilva/guia-dos-bancos-de-dados)
-- [Guia do Pentesting](https://github.com/victorhfsilva/guia-do-pentesting)
 
 ## 🌱 Atualmente estou aprendendo...
 
