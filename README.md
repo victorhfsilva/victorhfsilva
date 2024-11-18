@@ -110,10 +110,17 @@ To learn more about my progress in security, visit my github dedicated to this s
 
 ## 📫 Contact
 
-<p align="left">
-<a href="https://twitter.com/victor_hfsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victor_hfsilva" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victorhfsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorhfsilva" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/victor_hfsilva" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1158496290695544913" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 <!--
 **victorhfsilva/victorhfsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
