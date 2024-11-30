@@ -86,7 +86,10 @@ To learn more about my progress in security, visit my github dedicated to this s
 
 <div align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="python" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="pandas" width="40" height="40"/>
 </div>
 
 ### Scripting Languages
