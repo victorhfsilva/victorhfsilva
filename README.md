@@ -82,14 +82,15 @@ To learn more about my progress in security, visit my github dedicated to this s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-### Data Engineering
+### Data
 
 <div align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="python" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="python" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="databricks" width="40" height="40"/>
 </div>
 
 ### Scripting Languages
