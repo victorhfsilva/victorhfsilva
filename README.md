@@ -103,6 +103,7 @@ To learn more about my progress in security, visit my github dedicated to this s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
 </div>
 
 
@@ -125,6 +126,7 @@ To learn more about my progress in security, visit my github dedicated to this s
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
 
 <!--
 **victorhfsilva/victorhfsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
