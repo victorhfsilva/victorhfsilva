@@ -4,13 +4,13 @@ Hi! Welcome to my GitHub repository. Here, you'll find a curated collection of p
 
 ## 💼 Job Experience...
 
-I currently work as a Developer I at DB Server. I'm a contractor in the IT Governance team at Sicredi, the first cooperative financial institution in Latin America. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, and building ETLs using Python and Pandas. As part of the team managing Sicredi's Jira platform, I am responsible for creating and maintaining interfaces, APIs, and ETLs that interact with Jira's data.
+I currently work as a Developer I at DB Server. I'm a contractor in the IT Governance team at Sicredi, the first cooperative financial institution in Latin America. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, and building ETLs using Python and Databricks. As part of the team managing Sicredi's Jira platform, I am responsible for creating and maintaining interfaces, APIs, and ETLs that interact with Jira's data.
 
 In my previous experience as an intern at DB Server, I underwent intensive training on Back End development with Java and Spring; Front End development with Typescript and React; Test Automation with Selenium, Cypress and Rest Assured; and agile methodologies such as Scrum and Kanban.
 
 ## 🌱 Current Learning...
 
-One area that fascinates me a lot is secure development. That's why, in my free time, I'm studying ethical hacking, application security, among other subjects.
+One area that fascinates me a lot is secure development. That's why, in my free time, I'm studying ethical hacking, cybersecurity, application security, among other subjects.
 
 To learn more about my progress in security, visit my github dedicated to this subject:
 
