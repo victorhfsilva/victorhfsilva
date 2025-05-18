@@ -1,18 +1,18 @@
-<img src="./Banner para Linkedin Tecnologia em Preto.png" />
+<img src="./banner.png" />
 
-Hi! Welcome to my GitHub repository. Here, you'll find a curated collection of projects, code examples, and experiments that I've worked on throughout my journey.
+Hi! Welcome to my GitHub repository. Here, you'll find a curated collection of projects that I've worked on throughout my journey.
 
 ## 💼 Job Experience...
 
-I currently work as a Developer I at DB Server. I'm a contractor in the IT Governance team at Sicredi, the first cooperative financial institution in Latin America. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, and building ETLs using Python and Databricks. As part of the team managing Sicredi's Jira platform, I am responsible for creating and maintaining interfaces, APIs, and ETLs that interact with Jira's data.
+I currently work as a Junior Developer at DB Server. I'm a contractor in the IT Governance team at Sicredi, the first cooperative financial institution in Latin America. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, and building ETLs using Python and Databricks. As part of the team managing Sicredi's Jira platform, I am responsible for creating and maintaining interfaces, APIs, and ETLs that interact with Jira's data.
 
 In my previous experience as an intern at DB Server, I underwent intensive training on Back End development with Java and Spring; Front End development with Typescript and React; Test Automation with Selenium, Cypress and Rest Assured; and agile methodologies such as Scrum and Kanban.
 
 ## 🌱 Current Learning...
 
-One area that fascinates me a lot is secure development. That's why, in my free time, I'm studying ethical hacking, cybersecurity, application security, among other subjects.
+One area that fascinates me a lot is offensive security. That's why, I'm not just learning ethical hacking but also applying my knowledge in CTFs and Bug Bounties.
 
-To learn more about my progress in security, visit my github dedicated to this subject:
+To learn more about my progress in offensive security, visit my github dedicated to this subject:
 
 - [Github: Tyto-Sec](https://github.com/tyto-sec)
   
@@ -23,13 +23,10 @@ To learn more about my progress in security, visit my github dedicated to this s
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
 </div>
 
 ### Front End
@@ -39,15 +36,11 @@ To learn more about my progress in security, visit my github dedicated to this s
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 
@@ -57,7 +50,6 @@ To learn more about my progress in security, visit my github dedicated to this s
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
   <img src="https://rest-assured.io/img/logo-transparent.png" alt="restassured" width="40" height="40" >
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
 
 ### DevOps
@@ -70,42 +62,14 @@ To learn more about my progress in security, visit my github dedicated to this s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-### Databases
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
 ### Data
 
 <div align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="pandas" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="databricks" width="40" height="40"/>
 </div>
-
-### Scripting Languages
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-</div>
-
 
 ## 📈 Stats
 
