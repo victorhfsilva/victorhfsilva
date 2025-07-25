@@ -4,7 +4,7 @@ Hi! Welcome to my GitHub repository. Here, you'll find a curated collection of p
 
 ## 💼 Job Experience...
 
-I currently work as a Junior Developer at DB Server. I'm a contractor in the IT Governance team at Sicredi, the first cooperative financial institution in Latin America. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, and building ETLs using Python and Databricks. As part of the team managing Sicredi's Jira platform, I am responsible for creating and maintaining interfaces, APIs, and ETLs that interact with Jira's data.
+I currently work as a Software Engineer at Sicredi. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, building ETLs with Databricks; implementing Data Pipelines with Python; creating dashboards with Power BI and reports with Denodo.
 
 In my previous experience as an intern at DB Server, I underwent intensive training on Back End development with Java and Spring; Front End development with Typescript and React; Test Automation with Selenium, Cypress and Rest Assured; and agile methodologies such as Scrum and Kanban.
 
