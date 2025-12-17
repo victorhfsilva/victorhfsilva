@@ -1,22 +1,44 @@
 <img src="./banner.png" />
 
+<br>
+
 Hi! Welcome to my GitHub repository. Here, you'll find a curated collection of projects that I've worked on throughout my journey.
+
+<br>
 
 ## 💼 Job Experience...
 
-I currently work as a Software Engineer at Sicredi. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, building ETLs with Databricks; implementing Data Pipelines with Python; creating dashboards with Power BI and reports with Denodo.
+<br>
 
-In my previous experience as an intern at DB Server, I underwent intensive training on Back End development with Java and Spring; Front End development with Typescript and React; Test Automation with Selenium, Cypress and Rest Assured; and agile methodologies such as Scrum and Kanban.
+I currently work as a Software Engineer at the Credit Union Sicredi. In this role, I work on Front-End development using React and TypeScript, Back-End development using Java and Spring Boot, ETL development with Databricks and creating all sorts of scripts and automations with Python.
+
+In my previous experience at DB Server I also worked with the same stack plus Automated Test development using Selenium and Rest Assured.
+
+<br>
 
 ## 🌱 Current Learning...
 
-One area that fascinates me a lot is offensive security. That's why, I'm not just learning ethical hacking but also applying my knowledge in CTFs and Bug Bounties.
+<br>
 
-To learn more about my progress in offensive security, visit my github dedicated to this subject:
+One area that really fascinates me is offensive security. To learn more about my progress in offensive security, visit my github dedicated to this subject:
 
 - [Github: Tyto-Sec](https://github.com/tyto-sec)
-  
+
+<br>
+
+Some of the offensive security projects I'm proud about are:
+
+| Projects    | Language | Description |
+| -------- | ------- | ------- |
+| [DnsKiller](https://github.com/tyto-sec/DnsKiller)  | Python | Automated tool for scanning a domain list in search for Subdomain Takeover and Email Spoofing vulnerabilities via DNS queries. |
+| [Nmapalooza](https://github.com/tyto-sec/nmapalooza) | Bash | Toolkit that automates a multi-stage network scan process using Nmap. |
+| [Linkaboo](https://github.com/tyto-sec/linkaboo)   | Bash | Linux enumaration toolkit to automate post exploitation enumeration of targets. |
+
+<br>
+
 ## 🧰 Languages and Tools
+
+<br>
 
 ### Back End
 
@@ -28,6 +50,8 @@ To learn more about my progress in offensive security, visit my github dedicated
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="12" />
 </div>
+
+<br>
 
 ### Front End
 
@@ -43,14 +67,16 @@ To learn more about my progress in offensive security, visit my github dedicated
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+<br>
 
 ### Quality Assurance
 
 <div align="left"> 
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
   <img src="https://rest-assured.io/img/logo-transparent.png" alt="restassured" width="40" height="40" >
 </div>
+
+<br>
 
 ### DevOps
 
@@ -62,14 +88,18 @@ To learn more about my progress in offensive security, visit my github dedicated
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<br>
+
 ### Data
 
 <div align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="pandas" width="40" height="40"/>
   <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" alt="databricks" width="40" height="40"/>
 </div>
+
+<br>
+<br>
 
 ## 📫 Contact
 
