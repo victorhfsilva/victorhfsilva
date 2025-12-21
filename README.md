@@ -30,9 +30,9 @@ Some of the offensive security projects I'm proud about are:
 
 | Projects    | Language | Description |
 | -------- | ------- | ------- |
-| [DnsKiller](https://github.com/tyto-sec/DnsKiller)  | Python | Automated tool for scanning a domain list in search for Subdomain Takeover and Email Spoofing vulnerabilities via DNS queries. |
-| [Nmapalooza](https://github.com/tyto-sec/nmapalooza) | Bash | Toolkit that automates a multi-stage network scan process using Nmap. |
-| [Linkaboo](https://github.com/tyto-sec/linkaboo)   | Bash | Linux enumaration toolkit to automate post exploitation enumeration of targets. |
+| [DnsKiller](https://github.com/tyto-sec/DnsKiller)  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Automated tool for scanning a domain list in search for Subdomain Takeover and Email Spoofing vulnerabilities via DNS queries. |
+| [Nmapalooza](https://github.com/tyto-sec/nmapalooza) | ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | Toolkit that automates a multi-stage network scan process using Nmap. |
+| [Linkaboo](https://github.com/tyto-sec/linkaboo)   | ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | Linux enumaration toolkit to automate post exploitation enumeration of targets. |
 
 <br>
 
