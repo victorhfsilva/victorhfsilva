@@ -54,6 +54,12 @@ Some of the offensive security projects I'm proud about are:
 
 <br>
 
+## Stats
+
+![](https://github-readme-stats.vercel.app/api?username=victorhfsilva&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhfsilva&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## Contact
 
 <div align="left">
