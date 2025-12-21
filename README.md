@@ -6,7 +6,7 @@ Hi! Welcome to my GitHub repository. Here, you'll find a curated collection of p
 
 <br>
 
-## 💼 Job Experience...
+## Job Experience
 
 <br>
 
@@ -16,7 +16,7 @@ In my previous experience at DB Server I also worked with the same stack plus Au
 
 <br>
 
-## 🌱 Current Learning...
+## Cybersecurity Experience
 
 <br>
 
@@ -36,7 +36,7 @@ Some of the offensive security projects I'm proud about are:
 
 <br>
 
-## 🧰 Languages and Tools
+## My Toolbox
 
 <br>
 
@@ -101,7 +101,7 @@ Some of the offensive security projects I'm proud about are:
 <br>
 <br>
 
-## 📫 Contact
+## Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
