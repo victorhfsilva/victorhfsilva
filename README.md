@@ -42,11 +42,11 @@ My background also includes a foundation in Quality Assurance, specifically in d
 
 <br>
 
-I'm Bachelor of Physics Engineering at Universidade Estadual do Mato Grosso do Sul. During this undergraduate project I built a solid foundation in Physics, Electronics, Materials Science and Control and Automation.
+I hold a Bachelor’s degree in Engineering Physics from the State University of Mato Grosso do Sul (UEMS). Throughout this program, I developed a rigorous foundation in Physics, Electronics, Materials Science, and Control and Automation.
 
-Additionaly I went through a Sandwich Program in Information Technology Engineering in Budapest - Hungary.
+As part of my academic trajectory, I participated in an international exchange program at Óbuda University in Budapest, Hungary, focusing on Information Technology Engineering.
 
-I'm also a drop out of Eletronics and Telecommunication Engineering, where I studied 9 semesters of subjects like Electronics, Networks, Telecommunications and Control and Automation.
+Additionally, I completed nine semesters of Electronics and Telecommunications Engineering, where I gained extensive academic experience in Networking, Telecommunications, and Advanced Control Systems.
 
 <br>
 
