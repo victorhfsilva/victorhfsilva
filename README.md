@@ -68,7 +68,7 @@ A summarized list of my finished projects is the following:
 | [HackerOneScraper](https://github.com/tyto-sec/HackerOneScraper) | Scraping tool for HackerOne structured scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneScraper)| ![stars](https://img.shields.io/github/stars/tyto-sec/HackerOneScraper)  |
 | [HackerOneCsvGrabber](https://github.com/tyto-sec/HackerOneCsvGrabber) | Tool to extract in scope assets from Hacker One CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneCsvGrabber)| ![stars](https://img.shields.io/github/stars/tyto-sec/HackerOneCsvGrabber)  |
 | [BugcrowdScraper](https://github.com/tyto-sec/BugcrowdScraper) | Scraping tool for Bugcrowd engagement scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdScraper)| ![stars](https://img.shields.io/github/stars/tyto-sec/BugcrowdScraper)  |
-| [Easymap](https://github.com/tyto-sec/easymap) | Multi-Stage network scan tool bacsed on Nmap. | ![language](https://img.shields.io/github/languages/top/tyto-sec/easymap) | ![stars](https://img.shields.io/github/stars/tyto-sec/easymap)  |
+| [Easymap](https://github.com/tyto-sec/easymap) | Multi-Stage network scan tool based on Nmap. | ![language](https://img.shields.io/github/languages/top/tyto-sec/easymap) | ![stars](https://img.shields.io/github/stars/tyto-sec/easymap)  |
 | [Linkorn](https://github.com/tyto-sec/linkorn) | Post-Exploitation Enumaration Tool for Linux. | ![language](https://img.shields.io/github/languages/top/tyto-sec/linkorn) | ![stars](https://img.shields.io/github/stars/tyto-sec/linkorn)  |
 
 <br>
