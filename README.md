@@ -64,6 +64,7 @@ A summarized list of my finished projects is the following:
 
 | Projects    | Description | Language | Stars |
 | -------- | ------- | ------- | ------- |
+| [Rayders On The Storm](https://github.com/tyto-sec/RaydersOnTheStorm) | Modular recon and vulnerability automation framework | ![language](https://img.shields.io/github/languages/top/tyto-sec/RaydersOnTheStorm) | ![stars](https://img.shields.io/github/stars/tyto-sec/RaydersOnTheStorm)  |
 | [TakeOver](https://github.com/tyto-sec/TakeOver) | Tool to perform subdomain takeover and permissive spf enumeration. | ![language](https://img.shields.io/github/languages/top/tyto-sec/TakeOver)| ![stars](https://img.shields.io/github/stars/tyto-sec/TakeOver)  |
 | [HackerOneScraper](https://github.com/tyto-sec/HackerOneScraper) | Scraping tool for HackerOne structured scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneScraper)| ![stars](https://img.shields.io/github/stars/tyto-sec/HackerOneScraper)  |
 | [HackerOneCsvGrabber](https://github.com/tyto-sec/HackerOneCsvGrabber) | Tool to extract in scope assets from Hacker One CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneCsvGrabber)| ![stars](https://img.shields.io/github/stars/tyto-sec/HackerOneCsvGrabber)  |
