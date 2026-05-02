@@ -32,9 +32,13 @@
 
 <br>
 
-I am a Software Engineer specializing in Full-Cycle Development, Cybersecurity and Data Engineering. My core technical stack includes building Front-End applications with React and TypeScript, alongside Back-End services using Java and Spring Boot. Additionally, I have extensive experience in Data Engineering, where I leverage Python, SQL, and Databricks to build pipelines of data.
+I am a Software Engineer specialized in Web Development, Cybersecurity and Data Engineering. My core technical stack includes building Front-End applications with React, alongside Back-End microservices using Spring Boot and data pipelines using Databricks.
 
-My background also includes a foundation in Quality Assurance, specifically in developing automated testing suites using Selenium, Rest Assured and Cypress to ensure software reliability and performance.
+I serve as a Software Engineer at Sicredi within the IT Governance department, where I contribute to full-stack development and manage complex data engineering pipelines.
+
+My background also includes a foundation in Quality Assurance, specifically in developing automated testing suites using Selenium, Rest Assured and Cypress to ensure software reliability and performance
+
+Futhermore, I actively participate in Bug Bounty programs and CTFs, where I develop my Offensive Security skills. In addition to developing open-source tools focused on penetration testing and Bug Bounty programs.
 
 <br> 
 
