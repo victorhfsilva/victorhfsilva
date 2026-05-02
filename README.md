@@ -60,7 +60,7 @@ I am the founder of Tyto Security, an open-source initiative dedicated to develo
 
 <br>
 
-A summarized list of my finished projects is the following:
+A summarized list of my main projects is the following:
 
 | Projects    | Description | Language |
 | -------- | ------- | ------- |
@@ -91,3 +91,5 @@ A summarized list of my finished projects is the following:
 
 
 <br>
+
+---
