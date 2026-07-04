@@ -32,19 +32,17 @@
 
 <br>
 
-I am a Software Engineer specialized in Web Development, Cybersecurity and Data Engineering. My core technical stack includes building Front-End applications with React, alongside Back-End microservices using Spring Boot and data pipelines using Databricks.
+I am a Pentester with solid experience in Software Engineering.
 
-I serve as a Software Engineer at Sicredi within the IT Governance department, where I contribute to full-stack development and manage complex data engineering pipelines.
-
-My background also includes a foundation in Quality Assurance, specifically in developing automated testing suites using Selenium, Rest Assured and Cypress to ensure software reliability and performance
-
-Futhermore, I actively participate in Bug Bounty programs and CTFs, where I develop my Offensive Security skills. In addition to developing open-source tools focused on penetration testing and Bug Bounty programs.
+I'm actively participating in Bug Bounty Programs, VDPs and CTFs, where I develop my Offensive Security skills. In addition to developing open-source tools focused on penetration testing and Bug Bounty programs.
 
 <br> 
 
 ## Formal Education
 
 <br>
+
+I'm a Post Graduate student in Offensive Cybersecurity in Acadi-TI University. Certified in Pentest and Red Team by CyberWarfare Labs (CRTA, API-RTA, MCRTA). With experience  in Software Development and Offensive Security.
 
 I hold a Bachelor’s degree in Engineering Physics from the State University of Mato Grosso do Sul (UEMS). Throughout this program, I developed a rigorous foundation in Physics, Electronics, Materials Science, and Control and Automation.
 
@@ -53,29 +51,18 @@ As part of my academic trajectory, I participated in an international exchange p
 Additionally, I completed nine semesters of Electronics and Telecommunications Engineering, where I gained extensive academic experience in Networking, Telecommunications, and Advanced Control Systems.
 
 <br>
+<!--
 
 ## Open Source Projects
 
 <br>
 
-I am the founder of Tyto Security, an open-source initiative dedicated to developing specialized tools for Offensive Security and Bug Bounty programs.
+I am the founder of Tyto Security, an initiative dedicated to developing specialized tools for Offensive Security and Bug Bounty programs.
 
-> [Tyto Security](https://github.com/tyto-sec) is an open-source initiative dedicated to developing offensive security tools designed to streamline CTFs, Bug Bounty hunting, and professional penetration testing workflows. Beyond tool development, we are committed to advancing cybersecurity knowledge and fostering a more secure digital ecosystem through community-driven education and collaboration.
-
-<br>
-
-A summarized list of my main projects is the following:
-
-| Projects    | Description | Language |
-| -------- | ------- | ------- |
-| [Rotz](https://github.com/tyto-sec/rotz) | Modular recon and vulnerability automation framework | ![language](https://img.shields.io/github/languages/top/tyto-sec/rotz) |
-| [HackerOneScraper](https://github.com/tyto-sec/HackerOneScraper) | Scraping tool for HackerOne structured scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneScraper)|
-| [HackerOneCsvGrabber](https://github.com/tyto-sec/HackerOneCsvGrabber) | Tool to extract in scope assets from Hacker One CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneCsvGrabber)|
-| [BugcrowdScraper](https://github.com/tyto-sec/BugcrowdScraper) | Scraping tool for Bugcrowd engagement scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdScraper)|
-| [BugcrowdCsvGrabber](https://github.com/tyto-sec/BugcrowdCsvGrabber) | Tool to extract in scope assets from Bugcrowd CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdCsvGrabber)|
-
+> [Tyto Security](https://github.com/tyto-sec) is an open-source initiative dedicated to developing offensive security tools and materials designed to streamline CTFs, Bug Bounty hunting, and professional penetration testing workflows. Beyond tool development, we are committed to advancing cybersecurity knowledge and fostering a more secure digital ecosystem through community-driven education and collaboration.
 
 <br>
+--!>
 
 ## My Toolbox
 
