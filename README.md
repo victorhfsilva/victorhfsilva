@@ -32,9 +32,7 @@
 
 <br>
 
-I am a Pentester with solid experience in Software Engineering.
-
-I'm actively participating in Bug Bounty Programs, VDPs and CTFs, where I develop my Offensive Security skills. In addition to developing open-source tools focused on penetration testing and Bug Bounty programs.
+I am a Pentester with solid experience in Software Engineering. I actively participate in Bug Bounty Programs, VDPs and CTFs, where I develop my Offensive Security skills. In addition to developing open-source tools focused on penetration testing and Bug Bounty programs.
 
 <br> 
 
