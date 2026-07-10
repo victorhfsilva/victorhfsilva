@@ -49,7 +49,6 @@ As part of my academic trajectory, I participated in an international exchange p
 Additionally, I completed nine semesters of Electronics and Telecommunications Engineering, where I gained extensive academic experience in Networking, Telecommunications, and Advanced Control Systems.
 
 <br>
-<!--
 
 ## Open Source Projects
 
@@ -60,7 +59,7 @@ I am the founder of Tyto Security, an initiative dedicated to developing special
 > [Tyto Security](https://github.com/tyto-sec) is an open-source initiative dedicated to developing offensive security tools and materials designed to streamline CTFs, Bug Bounty hunting, and professional penetration testing workflows. Beyond tool development, we are committed to advancing cybersecurity knowledge and fostering a more secure digital ecosystem through community-driven education and collaboration.
 
 <br>
---!>
+
 
 ## My Toolbox
 
