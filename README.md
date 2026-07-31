@@ -40,7 +40,7 @@ I am a Pentester with solid experience in Software Engineering. I actively parti
 
 <br>
 
-I'm a Post Graduate student in Offensive Cybersecurity in Acadi-TI University. Certified in Pentest and Red Team by CyberWarfare Labs (CRTA, API-RTA, MCRTA). With experience  in Software Development and Offensive Security.
+I'm a Post Graduate student in Offensive Cybersecurity in Acadi-TI University. Certified in Pentest and Red Team by Ine (EJPT) and CyberWarfare Labs (CRTA, API-RTA, WEB-RTA, MCRTA). With experience  in Software Development and Offensive Security.
 
 I hold a Bachelor’s degree in Engineering Physics from the State University of Mato Grosso do Sul (UEMS). Throughout this program, I developed a rigorous foundation in Physics, Electronics, Materials Science, and Control and Automation.
 
