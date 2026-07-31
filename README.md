@@ -1,7 +1,7 @@
 <img src="./banner.png" />
 
 <div align="center">
-  <!-- <a href="https://www.youtube.com/@TytoSecurity" target="_blank">
+  <a href="https://www.youtube.com/@TytoSecurity" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/tytosec/" target="_blank">
@@ -9,16 +9,16 @@
   </a>
   <a href="https://www.twitch.tv/tytosec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitch logo"  />
-  </a> -->
+  </a>
   <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/1158496290695544913" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
   </a>
-  <!-- <a href="https://medium.com/@tytosec" target="_blank">
+  <a href="https://medium.com/@tytosec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="medium logo"  />
-  </a> -->
+  </a>
   <a href="https://x.com/tytosec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
   </a>
