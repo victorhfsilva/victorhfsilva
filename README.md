@@ -70,6 +70,9 @@ A summarized list of my main projects is the following:
 | [HackerOneCsvGrabber](https://github.com/tyto-sec/HackerOneCsvGrabber) | Tool to extract in scope assets from Hacker One CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneCsvGrabber)|
 | [BugcrowdScraper](https://github.com/tyto-sec/BugcrowdScraper) | Scraping tool for Bugcrowd engagement scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdScraper)|
 | [BugcrowdCsvGrabber](https://github.com/tyto-sec/BugcrowdCsvGrabber) | Tool to extract in scope assets from Bugcrowd CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdCsvGrabber)|
+| [vibed-coded-web-tools](https://github.com/tyto-sec/vibed-coded-web-tools) | As the name says mostly vibed coded web tools. | ![language](https://img.shields.io/github/languages/top/tyto-sec/vibed-coded-web-tools)|
+| [vibed-coded-ctf-exploits](https://github.com/tyto-sec/vibed-coded-ctf-exploits) | As the name says mostly vibed coded ctf exploits. | ![language](https://img.shields.io/github/languages/top/tyto-sec/vibed-coded-ctf-exploits)|
+| [vibed-coded-red-team-tools](https://github.com/tyto-sec/vibed-coded-red-team-tools) | As the name says mostly vibed coded red team tools. | ![language](https://img.shields.io/github/languages/top/tyto-sec/vibed-coded-red-team-tools)|
 
 
 
