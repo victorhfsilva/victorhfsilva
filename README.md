@@ -1,29 +1,5 @@
 <img src="./banner.png" />
 
-<div align="center">
-  <a href="https://www.youtube.com/@TytoSecurity" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/tytosec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/tytosec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitch logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1158496290695544913" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
-  </a>
-  <a href="https://medium.com/@tytosec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="medium logo"  />
-  </a>
-  <a href="https://x.com/tytosec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
-  </a>
-</div>
-
 <br>
 
 > Welcome to my GitHub repository. Here, you'll find a curated collection of projects that I've worked on throughout my journey.
@@ -47,34 +23,6 @@ I hold a Bachelor’s degree in Engineering Physics from the State University of
 As part of my academic trajectory, I participated in an international exchange program at Óbuda University in Budapest, Hungary, focusing on Information Technology Engineering.
 
 Additionally, I completed nine semesters of Electronics and Telecommunications Engineering, where I gained extensive academic experience in Networking, Telecommunications, and Advanced Control Systems.
-
-<br>
-
-## Open Source Projects
-
-<br>
-
-I am the founder of Tyto Security, an initiative dedicated to developing specialized tools for Offensive Security and Bug Bounty programs.
-
-> [Tyto Security](https://github.com/tyto-sec) is an open-source initiative dedicated to developing offensive security tools and materials designed to streamline CTFs, Bug Bounty hunting, and professional penetration testing workflows. Beyond tool development, we are committed to advancing cybersecurity knowledge and fostering a more secure digital ecosystem through community-driven education and collaboration.
-
-
-<br>
-
-A summarized list of my main projects is the following:
-
-| Projects    | Description | Language |
-| -------- | ------- | ------- |
-| [Rotz](https://github.com/tyto-sec/rotz) | Modular recon and vulnerability automation framework | ![language](https://img.shields.io/github/languages/top/tyto-sec/rotz) |
-| [HackerOneScraper](https://github.com/tyto-sec/HackerOneScraper) | Scraping tool for HackerOne structured scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneScraper)|
-| [HackerOneCsvGrabber](https://github.com/tyto-sec/HackerOneCsvGrabber) | Tool to extract in scope assets from Hacker One CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneCsvGrabber)|
-| [BugcrowdScraper](https://github.com/tyto-sec/BugcrowdScraper) | Scraping tool for Bugcrowd engagement scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdScraper)|
-| [BugcrowdCsvGrabber](https://github.com/tyto-sec/BugcrowdCsvGrabber) | Tool to extract in scope assets from Bugcrowd CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdCsvGrabber)|
-| [vibed-coded-web-tools](https://github.com/tyto-sec/vibed-coded-web-tools) | As the name says mostly vibed coded web tools. | ![language](https://img.shields.io/github/languages/top/tyto-sec/vibed-coded-web-tools)|
-| [vibed-coded-ctf-exploits](https://github.com/tyto-sec/vibed-coded-ctf-exploits) | As the name says mostly vibed coded ctf exploits. | ![language](https://img.shields.io/github/languages/top/tyto-sec/vibed-coded-ctf-exploits)|
-| [vibed-coded-red-team-tools](https://github.com/tyto-sec/vibed-coded-red-team-tools) | As the name says mostly vibed coded red team tools. | ![language](https://img.shields.io/github/languages/top/tyto-sec/vibed-coded-red-team-tools)|
-
-
 
 <br>
 
