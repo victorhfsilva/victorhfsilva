@@ -1,7 +1,3 @@
-<img src="./banner.png" />
-
-<br>
-
 > Welcome to my GitHub repository. Here, you'll find a curated collection of projects that I've worked on throughout my journey.
 
 ## About Me
@@ -10,19 +6,7 @@
 
 I am a Pentester with solid experience in Software Engineering. I actively participate in Bug Bounty Programs, VDPs and CTFs, where I develop my Offensive Security skills. In addition to developing open-source tools focused on penetration testing and Bug Bounty programs.
 
-<br> 
-
-## Formal Education
-
-<br>
-
-I'm a Post Graduate student in Offensive Cybersecurity in Acadi-TI University. Certified in Pentest and Red Team by Ine (EJPT) and CyberWarfare Labs (CRTA, API-RTA, WEB-RTA, MCRTA). With experience  in Software Development and Offensive Security.
-
-I hold a Bachelor’s degree in Engineering Physics from the State University of Mato Grosso do Sul (UEMS). Throughout this program, I developed a rigorous foundation in Physics, Electronics, Materials Science, and Control and Automation.
-
-As part of my academic trajectory, I participated in an international exchange program at Óbuda University in Budapest, Hungary, focusing on Information Technology Engineering.
-
-Additionally, I completed nine semesters of Electronics and Telecommunications Engineering, where I gained extensive academic experience in Networking, Telecommunications, and Advanced Control Systems.
+I'm also a Post Graduate student in Offensive Cybersecurity in Acadi-TI University. Certified in Pentest and Red Team by Ine (EJPT) and CyberWarfare Labs (CRTA, API-RTA, WEB-RTA, MCRTA). With experience  in Software Development and Offensive Security.
 
 <br>
 
