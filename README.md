@@ -1,5 +1,3 @@
-> Welcome to my GitHub repository. Here, you'll find a curated collection of projects that I've worked on throughout my journey.
-
 ## About Me
 
 <br>
