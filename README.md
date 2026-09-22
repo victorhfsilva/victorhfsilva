@@ -19,7 +19,7 @@ I am a Pentester with solid experience in Web Development. My main areas of work
 
 My preferred code languages are Python and Bash. But I also have a background coding Back End with Java and Front End with React and Typescript.
 
-Recently most of the tools I'm building are Web Exploitation and Recon scripts that can be used in Bug Hunting or AI assisted Pentest. 
+Recently most of the tools I'm building are Web Exploitation and Recon scripts that can be used in Bug Hunting or scripts to automate tedious tasks in CTFs. 
 
 Below you can find some of those tools:
 
@@ -30,9 +30,7 @@ Below you can find some of those tools:
 | Projects    | Description | Language |
 | -------- | ------- | ------- |
 | [Rotz](https://github.com/victorhfsilva/rotz) | Modular recon and  automation framework | ![language](https://img.shields.io/github/languages/top/victorhfsilva/rotz) |
-| [Bug Hunt Enum Handler](https://github.com/victorhfsilva/bug_hunt_enum_handler) | Autonomous Web Enumeration Tool and Skill. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/bug_hunt_enum_handler)|
 | [Enum Handler](https://github.com/victorhfsilva/enum_handler) | Autonomous Infra Enumeration Tool and Skill. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/enum_handler)|
-| [VPS Toolkit](https://github.com/victorhfsilva/vps-toolkit) | VPS Tools Configuration Files. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/vps-toolkit)|
 
 </div>
 
