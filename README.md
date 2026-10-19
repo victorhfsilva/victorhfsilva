@@ -29,7 +29,7 @@ Below you can find some of those tools:
 
 | Projects    | Description | Language |
 | -------- | ------- | ------- |
-| [Rotz](https://github.com/victorhfsilva/rotz) | Modular recon and  automation framework | ![language](https://img.shields.io/github/languages/top/victorhfsilva/rotz) |
+| [Rotz](https://github.com/victorhfsilva/rotz) | Modular recon and  automation framework. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/rotz) |
 | [Scope Scraper](https://github.com/victorhfsilva/scope-scraper) | Bug bounty scope monitoring tool. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/scope-scraper) |
 | [Enum Handler](https://github.com/victorhfsilva/enum_handler) | Autonomous Infra Enumeration Tool and Prompt. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/enum_handler)|
 | [Opencode Setup](https://github.com/victorhfsilva/opencode-pentest-setup) | Opencode MCP and Skills Configuration setup. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/opencode-pentest-setup)|
