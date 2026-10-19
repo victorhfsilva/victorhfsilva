@@ -19,7 +19,7 @@ I am a Pentester with solid experience in Web Development. My main areas of work
 
 My preferred code languages are Python and Bash. But I also have a background coding Back End with Java and Front End with React and Typescript.
 
-Recently most of the tools I'm building are Web Exploitation and Recon scripts that can be used in Bug Hunting or scripts to automate tedious tasks in CTFs. 
+Recently most of the tools I'm building/generating are Web Exploitation and Recon scripts that can be used in Bug Hunting. 
 
 Below you can find some of those tools:
 
@@ -30,7 +30,9 @@ Below you can find some of those tools:
 | Projects    | Description | Language |
 | -------- | ------- | ------- |
 | [Rotz](https://github.com/victorhfsilva/rotz) | Modular recon and  automation framework | ![language](https://img.shields.io/github/languages/top/victorhfsilva/rotz) |
-| [Enum Handler](https://github.com/victorhfsilva/enum_handler) | Autonomous Infra Enumeration Tool and Skill. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/enum_handler)|
+| [Scope Scraper](https://github.com/victorhfsilva/scope-scraper) | Bug bounty scope monitoring tool. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/scope-scraper) |
+| [Enum Handler](https://github.com/victorhfsilva/enum_handler) | Autonomous Infra Enumeration Tool and Prompt. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/enum_handler)|
+| [Opencode Setup](https://github.com/victorhfsilva/opencode-pentest-setup) | Opencode MCP and Skills Configuration setup. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/opencode-pentest-setup)|
 
 </div>
 
