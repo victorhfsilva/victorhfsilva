@@ -33,6 +33,10 @@ Below you can find some of those tools:
 | [Scope Scraper](https://github.com/victorhfsilva/scope-scraper) | Bug bounty scope monitoring tool. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/scope-scraper) |
 | [Enum Handler](https://github.com/victorhfsilva/enum_handler) | Autonomous Infra Enumeration Tool and Prompt. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/enum_handler)|
 | [Opencode Setup](https://github.com/victorhfsilva/opencode-pentest-setup) | Opencode MCP and Skills Configuration setup. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/opencode-pentest-setup)|
+| [Hunter](https://github.com/victorhfsilva/hunter2) | Opencode command and autonomous pentest workflow. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter2)|
+| [Postman Hunter](https://github.com/victorhfsilva/postman-hunter) | Autonomous search for secrets on public Postman collections. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/postman-hunter)|
+| [Secret Hunter](https://github.com/victorhfsilva/secret-hunter) | Autonomous search for hardcoded secrets on websites. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/secret-hunter)|
+
 
 </div>
 
