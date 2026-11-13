@@ -36,9 +36,25 @@ Below you can find some of those tools:
 | [Postman Hunter](https://github.com/victorhfsilva/postman-hunter) | Autonomous search for secrets on public Postman collections. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/postman-hunter)|
 | [Secret Hunter](https://github.com/victorhfsilva/secret-hunter) | Autonomous search for hardcoded secrets on websites. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/secret-hunter)|
 
-
 </div>
 
+<br>
+
+My pentest agents are in constant development and evolution, therefore many of them might be useful for different tasks:
+
+<br>
+
+<div align="center">
+  
+| Projects    | Description | Language |
+| -------- | ------- | ------- |
+| [hunter2](https://github.com/victorhfsilva/hunter2) | Legacy workflow. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter2) |
+| [hunter3](https://github.com/victorhfsilva/hunter3) | Ofjaah tests workflow and legacy agents. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter3) |
+| [hunter4](https://github.com/victorhfsilva/hunter4) | No skill is being used on this agent. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter4) |
+| [hunter5](https://github.com/victorhfsilva/hunter5) | On this version was added skills support. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter5) |
+| [hunter6](https://github.com/victorhfsilva/hunter6) | This version triages vulnerability scans files in a folder. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter6) |
+
+</div>
 
 <br>
 
