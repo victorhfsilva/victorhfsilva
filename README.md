@@ -56,6 +56,9 @@ Below you can find some of those tools:
 | [hunter5](https://github.com/victorhfsilva/hunter5) | On this version was added skills support. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter5) |
 | [hunter6](https://github.com/victorhfsilva/hunter6) | This version triages vulnerability scans files in a folder. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter6) |
 | [pentest-triage-1](https://github.com/victorhfsilva/pentest-triage-1) | This version also triages vulnerability scans files in a folder. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-triage-1) |
+| [pentest-agent-1](https://github.com/victorhfsilva/pentest-agent-1) | This is a more robust pentest agent. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-1) |
+| [pentest-agent-core-skills-1](https://github.com/victorhfsilva/pentest-core-skills-1) | Core skills converted from Claude-BugHunter. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-core-skills-1) |
+| [pentest-agent-xss-skills-1](https://github.com/victorhfsilva/pentest-agent-xss-skills-1) | Extra XSS Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-xss-skills-1) |
 
 </div>
 
