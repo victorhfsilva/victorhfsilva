@@ -55,6 +55,7 @@ Below you can find some of those tools:
 | [hunter4](https://github.com/victorhfsilva/hunter4) | No skill is being used on this agent. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter4) |
 | [hunter5](https://github.com/victorhfsilva/hunter5) | On this version was added skills support. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter5) |
 | [hunter6](https://github.com/victorhfsilva/hunter6) | This version triages vulnerability scans files in a folder. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter6) |
+| [pentest-triage-1](https://github.com/victorhfsilva/pentest-triage-1) | This version also triages vulnerability scans files in a folder. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-triage-1) |
 
 </div>
 
