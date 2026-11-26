@@ -40,9 +40,7 @@ Below you can find some of those tools:
 
 <br>
 
-#### Pentest Agents
-
-> The following table contains my pentest agents but it is more for my own organization that for general use.
+#### Pentest Agent v1
 
 <br>
 
@@ -50,15 +48,14 @@ Below you can find some of those tools:
   
 | Projects    | Description | Language |
 | -------- | ------- | ------- |
-| [hunter2](https://github.com/victorhfsilva/hunter2) | Legacy workflow. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter2) |
-| [hunter3](https://github.com/victorhfsilva/hunter3) | Ofjaah tests workflow and legacy agents. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter3) |
-| [hunter4](https://github.com/victorhfsilva/hunter4) | No skill is being used on this agent. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter4) |
-| [hunter5](https://github.com/victorhfsilva/hunter5) | On this version was added skills support. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter5) |
-| [hunter6](https://github.com/victorhfsilva/hunter6) | This version triages vulnerability scans files in a folder. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/hunter6) |
-| [pentest-triage-1](https://github.com/victorhfsilva/pentest-triage-1) | This version also triages vulnerability scans files in a folder. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-triage-1) |
-| [pentest-agent-1](https://github.com/victorhfsilva/pentest-agent-1) | This is a more robust pentest agent. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-1) |
+| [pentest-triage-1](https://github.com/victorhfsilva/pentest-triage-1) | This is a pentest agent that triages scans files. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-triage-1) |
+| [pentest-agent-1](https://github.com/victorhfsilva/pentest-agent-1) | This is a cli pentest agent tool. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-1) |
 | [pentest-agent-core-skills-1](https://github.com/victorhfsilva/pentest-agent-core-skills-1) | Core skills converted from Claude-BugHunter. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-core-skills-1) |
 | [pentest-agent-xss-skills-1](https://github.com/victorhfsilva/pentest-agent-xss-skills-1) | Extra XSS Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-xss-skills-1) |
+| [pentest-agent-csrf-skills-1](https://github.com/victorhfsilva/pentest-agent-csrf-skills-1) | Extra CSRF Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-csrf-skills-1) |
+| [pentest-agent-disclosure-skills-1](https://github.com/victorhfsilva/pentest-agent-disclosure-skills-1) | Extra Information Disclosure Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-disclosure-skills-1) |
+| [pentest-agent-redir-skills-1](https://github.com/victorhfsilva/pentest-agent-redir-skills-1) | Extra Open Redirect Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-redir-skills-1) |
+
 
 </div>
 
