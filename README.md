@@ -50,12 +50,7 @@ Below you can find some of those tools:
 | -------- | ------- | ------- |
 | [pentest-triage-1](https://github.com/victorhfsilva/pentest-triage-1) | This is a pentest agent that triages scans files. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-triage-1) |
 | [pentest-agent-1](https://github.com/victorhfsilva/pentest-agent-1) | This is a cli pentest agent tool. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-1) |
-| [pentest-agent-core-skills-1](https://github.com/victorhfsilva/pentest-agent-core-skills-1) | Core skills converted from Claude-BugHunter. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-core-skills-1) |
-| [pentest-agent-xss-skills-1](https://github.com/victorhfsilva/pentest-agent-xss-skills-1) | Extra XSS Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-xss-skills-1) |
-| [pentest-agent-csrf-skills-1](https://github.com/victorhfsilva/pentest-agent-csrf-skills-1) | Extra CSRF Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-csrf-skills-1) |
-| [pentest-agent-disclosure-skills-1](https://github.com/victorhfsilva/pentest-agent-disclosure-skills-1) | Extra Information Disclosure Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-disclosure-skills-1) |
-| [pentest-agent-redir-skills-1](https://github.com/victorhfsilva/pentest-agent-redir-skills-1) | Extra Open Redirect Skills. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-redir-skills-1) |
-
+| [skills-bundle-1](https://github.com/victorhfsilva/skills-bundle-1) | Web Hacking skills bundle | ![language](https://img.shields.io/github/languages/top/victorhfsilva/skills-bundle-1) |
 
 </div>
 
