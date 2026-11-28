@@ -50,7 +50,7 @@ Below you can find some of those tools:
 | -------- | ------- | ------- |
 | [pentest-triage-1](https://github.com/victorhfsilva/pentest-triage-1) | This is a pentest agent that triages scans files. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-triage-1) |
 | [pentest-agent-1](https://github.com/victorhfsilva/pentest-agent-1) | This is a cli pentest agent tool. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/pentest-agent-1) |
-| [skills-bundle-1](https://github.com/victorhfsilva/skills-bundle-1) | Web Hacking skills bundle | ![language](https://img.shields.io/github/languages/top/victorhfsilva/skills-bundle-1) |
+| [skills-bundle-1](https://github.com/victorhfsilva/skills-bundle-1) | Web Hacking skills bundle. | ![language](https://img.shields.io/github/languages/top/victorhfsilva/skills-bundle-1) |
 
 </div>
 
